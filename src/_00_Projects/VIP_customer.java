@@ -1,4 +1,5 @@
 package _00_Projects;
+//Q. Detection of VIP Customers
 import java.util.Scanner;
 public class VIP_customer {
     static void main(String[] args) {
