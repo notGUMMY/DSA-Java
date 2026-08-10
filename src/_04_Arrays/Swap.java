@@ -5,10 +5,10 @@ import java.util.Arrays;
 public class Swap {
 
     static void main(String[] args) {
-        int[] arr = {2, 4, 6, 8, 10, 12};
+        int[] arr = {2, 4, 6, 8, 10, 12, 14};
         System.out.println("Original Array");
         System.out.println(Arrays.toString(arr));
-        swap(arr, 0, 5);
+        swap(arr, 0, 6);
         System.out.println("Modified Array");
         System.out.println(Arrays.toString(arr));
     }
